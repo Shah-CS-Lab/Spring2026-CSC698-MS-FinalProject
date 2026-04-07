@@ -1,6 +1,6 @@
 # Course Project Submissions – Spring 2026
 
-## Course: [Write course name here]
+## Course: MS in CS Final Year Project
 
 ## Instructions for Students
 
